@@ -1,1 +1,2 @@
-# Smart-IR---based-Counter
+# Smart-IR-based-Counter
+A Smart IR-Based Counter is a system that uses an Infrared (IR) sensor to count objects or people passing through a specific area. It consists of an IR transmitter and an IR receiver. When an object or person interrupts the IR beam, the system detects the break and increments the count. This data can be displayed on an LCD screen or sent to a microcontroller like an Arduino for further processing. It is commonly used in visitor counters, production lines, and automated entry systems.
